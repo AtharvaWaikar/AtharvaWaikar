@@ -44,19 +44,14 @@ I am a **Data enthusiast** and aspiring data professional with a strong foundati
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-<br>
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva8501199@gmail.com) 
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AtharvaWaikar)
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin) LinkedIn  
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.waikar@example.com) Email: atharva8501199@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.waikar@example.com) Email: atharva8501199@gmail.com  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername) GitHub: github.com/AtharvaWaikar
+
 
 ---
 
