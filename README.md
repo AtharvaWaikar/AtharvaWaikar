@@ -50,14 +50,6 @@ I am a **Data enthusiast** and aspiring data professional with a strong foundati
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername) GitHub: github.com/AtharvaWaikar
 
-
----
-
-## 📈 GitHub Stats
-
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
 ---
 
 ## ✨ Fun / Learning
