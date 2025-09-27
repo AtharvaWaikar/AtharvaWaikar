@@ -17,6 +17,17 @@ Programming & Tools:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-0064A5?logo=sql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
 
 GitHub
 
