@@ -23,6 +23,7 @@ I am a data enthusiast and aspiring data professional with a strong foundation i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white)
 
 ### Analytics & Visualization
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) 
