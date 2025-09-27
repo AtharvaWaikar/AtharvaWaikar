@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Atharva W.
+# Hi there 👋, I’m Atharva Waikar.
 
 ## 👨‍💻 About Me
 
@@ -10,17 +10,6 @@ I am a data enthusiast and aspiring data professional with a strong foundation i
 
 🎯 Goal: Deliver data-driven insights for smarter decision-making
 
-
-## 🛠️ Techinical Skills, Framework And Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-0064A5?logo=sql&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?logo=power-bi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 
 ## 🛠️ Skills & Analytics
@@ -40,15 +29,3 @@ I am a data enthusiast and aspiring data professional with a strong foundation i
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge) 
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge) 
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9C27B0?style=for-the-badge)
-
-
-
-Analytics & Visualization:
-
-Data Cleaning & Preprocessing
-
-Data Analysis & Reporting
-
-Dashboard Design & Trend Analysis
-
-Business Intelligence
