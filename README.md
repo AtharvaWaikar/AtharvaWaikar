@@ -44,8 +44,6 @@ I am a **Data enthusiast** and aspiring data professional with a strong foundati
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin) LinkedIn  
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.waikar@example.com) Email: atharva8501199@gmail.com  
