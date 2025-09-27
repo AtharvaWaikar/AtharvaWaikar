@@ -12,15 +12,11 @@ I am a data enthusiast and aspiring data professional with a strong foundation i
 
 🛠️ Technical Skills
 Programming & Tools:
-![Python](https://img.shields.io/badge/Label-Color?logo=LOGO&logoColor=COLOR)
-
-Python 
-SQL
-Excel
-
-Power BI
-
-Tableau
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0064A5?logo=sql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 GitHub
 
