@@ -4,7 +4,7 @@
 
 I am a **Data enthusiast** and aspiring data professional with a strong foundation in **Python, SQL, Excel, and Power BI**. I have recently completed **Advanced Python**, enhancing my skills in OOP, data manipulation, and automation. I enjoy solving real-world business problems by turning raw data into actionable insights.
 
-💼 Currently working as **Intern at Bits And Bytes Services**  
+💼 Currently working as **Intern at Bits And Bytes Services**  | Role: **Junior Python Analyst**
 
 🌱 Continuously learning **advanced SQL, Python, and data analytics**  
 
